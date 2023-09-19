@@ -19,10 +19,9 @@ body{
         }
 .ytbtn{
         border-color: rgb(164, 10, 10);
-        border-radius: 10px;
+        
         width: 175px;
         height: 45px;
-        font: 900;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #ffffff;
@@ -33,12 +32,3 @@ body{
 }
 .ytbtn:hover{background-color: rgb(164, 10, 10);}
 .ytbtn:active{background-color: rgb(199, 77, 77); box-shadow: 0 2.5px #0f0f0f; transform: translateY(2.5px);}
-.steambtn{}
-.xbtn{}
-.redditbtn{}
-.scbtn{}
-.ghbtn{}
-.pmcbtn{}
-.twitchbtn{}
-.sobtn{}
-.sebtn{}
