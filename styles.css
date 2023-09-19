@@ -19,9 +19,10 @@ body{
         }
 .ytbtn{
         border-color: rgb(164, 10, 10);
-        
+        border-radius: 10px;
         width: 175px;
         height: 45px;
+        font: 900;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #ffffff;
@@ -32,3 +33,19 @@ body{
 }
 .ytbtn:hover{background-color: rgb(164, 10, 10);}
 .ytbtn:active{background-color: rgb(199, 77, 77); box-shadow: 0 2.5px #0f0f0f; transform: translateY(2.5px);}
+
+.stmbtn{
+        border-color: #2e3a4b;
+        border-radius: 10px;
+        width: 175px;
+        height: 45px;
+        font-size: xx-large;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #c5c3c0;
+        background-color: #171d25;
+        display: inline-block;
+        box-shadow: 0 5px #171d25;
+        cursor: pointer;
+}
+.stmbtn:hover{background-color: #1a9fff;}
+.stmbtn:active{background-color: #98d4ff; box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
