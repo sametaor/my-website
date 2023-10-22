@@ -54,17 +54,17 @@ body{
 .stmbtn:active{background-color: #98d4ff; box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
 
 .sndbtn {
-        border-color: rgb(7, 107, 187);
+        border-color: rgb(254, 114, 24);
         border-radius: 10px;
         width: 240px;
         height: 45px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        color: #c5c3c0;
-        background-color: #171d25;
+        color: #fff;
+        background-color: #333;
         display: inline-block;
-        box-shadow: 0 5px #171d25;
+        box-shadow: 0 5px #333;
         cursor: pointer;
 }
-.sndbtn:hover{background-color: #1a9fff;}
-.sndbtn:active{background-color: #98d4ff; box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
+.sndbtn:hover{background-color: rgb(219, 97, 20);}
+.sndbtn:active{background-color: rgb(254, 152, 89); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
