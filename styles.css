@@ -1,13 +1,16 @@
 body{
-        background-color: #0c4c7d;
+        background-color: #0c4c7d no-repeat fixed 100% 100%;
         color: #fff;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        background: #466368;
-        background: -webkit-linear-gradient(#648880, #293f50);
-        background:    -moz-linear-gradient(#648880, #293f50);
-        background:         linear-gradient(#648880, #293f50);
+        background: #466368 ;
+        background: -webkit-linear-gradient(#648880, #293f50) no-repeat fixed 100% 100%;
+        background:    -moz-linear-gradient(#648880, #293f50) no-repeat fixed 100% 100%;
+        background:         linear-gradient(#648880, #293f50) no-repeat fixed 100% 100%;
         background-size: cover;
         background-repeat: no-repeat;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
         }
 .mainContent{
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
