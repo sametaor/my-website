@@ -6,7 +6,8 @@ body{
         background: -webkit-linear-gradient(#648880, #293f50);
         background:    -moz-linear-gradient(#648880, #293f50);
         background:         linear-gradient(#648880, #293f50);
-        height: 900px;
+        background-attachment:scroll;
+        height: 900;
         }
 .mainContent{
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -25,15 +26,16 @@ body{
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #ffffff;
-        background-color: #0f0f0f;
+        background: #0f0f0f;
         display: inline-block;
         box-shadow: 0 5px#0f0f0f;
         cursor: pointer;
 }
 .ytbtn:hover{background-color: rgb(164, 10, 10);}
 .ytbtn:active{background-color: rgb(199, 77, 77); box-shadow: 0 2.5px #0f0f0f; transform: translateY(2.5px);}
+
 .stmbtn{
-        border-color: #2e3a4b;
+        border-color: rgb(7, 107, 187);
         border-radius: 10px;
         width: 175px;
         height: 45px;
@@ -47,3 +49,19 @@ body{
 }
 .stmbtn:hover{background-color: #1a9fff;}
 .stmbtn:active{background-color: #98d4ff; box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
+
+.sndbtn {
+        border-color: rgb(7, 107, 187);
+        border-radius: 10px;
+        width: 175px;
+        height: 45px;
+        font-size: xx-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #c5c3c0;
+        background-color: #171d25;
+        display: inline-block;
+        box-shadow: 0 5px #171d25;
+        cursor: pointer;
+}
+.sndbtn:hover{background-color: #1a9fff;}
+.sndbtn:active{background-color: #98d4ff; box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
