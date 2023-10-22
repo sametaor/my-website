@@ -68,3 +68,19 @@ body{
 }
 .sndbtn:hover{background-color: rgb(219, 97, 20);}
 .sndbtn:active{background-color: rgb(254, 152, 89); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
+
+.xbtn {
+        border-color: rgb(29, 155, 240);
+        border-radius: 10px;
+        width: 240px;
+        height: 45px;
+        font-size: xx-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #fff;
+        background-color: rgb(22, 24, 28);
+        display: inline-block;
+        box-shadow: 0 5px rgb(22, 24, 28);
+        cursor: pointer;
+}
+.xbtn:hover{background-color: rgb(23, 130, 201);}
+.xbtn:active{background-color: rgb(119, 193, 241); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
