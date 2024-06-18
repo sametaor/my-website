@@ -101,3 +101,99 @@ p.mainContent{
 }
 .twitchbtn:hover{background-color: rgb(146, 75, 252);}
 .twitchbtn:active{background-color: rgb(201, 168, 251); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
+
+.ghbtn {
+        border-color: rgb(230, 237, 243);
+        border-radius: 10px;
+        width: 175px;
+        height: 45px;
+        font-size: xx-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #fff;
+        background-color: rgb(13, 17, 23);
+        display: inline-block;
+        box-shadow: 0 5px rgb(13, 17, 23);
+        cursor: pointer;
+}
+.ghbtn:hover{background-color: rgb(194, 219, 241);}
+.ghbtn:active{background-color: rgb(147, 150, 152); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
+
+.redditbtn {
+        border-color: rgb(255, 69, 0);
+        border-radius: 10px;
+        width: 175px;
+        height: 45px;
+        font-size: xx-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #fff;
+        background-color: rgb(14, 17, 19);
+        display: inline-block;
+        box-shadow: 0 5px rgb(14, 17, 19);
+        cursor: pointer;
+}
+.redditbtn:hover{background-color: rgb(255, 152, 114);}
+.redditbtn:active{background-color: rgb(104, 28, 0); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
+
+.spotbtn {
+        border-color: rgb(28, 214, 97);
+        border-radius: 10px;
+        width: 175px;
+        height: 45px;
+        font-size: xx-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #fff;
+        background-color: rgb(21, 19, 19);
+        display: inline-block;
+        box-shadow: 0 5px rgb(21, 19, 19);
+        cursor: pointer;
+}
+.spotbtn:hover{background-color: rgb(139, 255, 181);}
+.spotbtn:active{background-color: rgb(17, 124, 56); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
+
+.gogbtn {
+        border-color: rgb(110, 29, 114);
+        border-radius: 10px;
+        width: 175px;
+        height: 45px;
+        font-size: xx-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #000;
+        background-color: rgb(217, 217, 217);
+        display: inline-block;
+        box-shadow: 0 5px rgb(217, 217, 217);
+        cursor: pointer;
+}
+.gogbtn:hover{background-color: rgb(192, 54, 199);}
+.gogbtn:active{background-color: rgb(45, 11, 47); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
+
+.stackobtn {
+        border-color: rgb(244, 128, 36);
+        border-radius: 10px;
+        width: 240px;
+        height: 45px;
+        font-size: xx-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #fff;
+        background-color: rgb(37, 38, 39);
+        display: inline-block;
+        box-shadow: 0 5px rgb(37, 38, 39);
+        cursor: pointer;
+}
+.stackobtn:hover{background-color: rgb(233, 184, 143);}
+.stackobtn:active{background-color: rgb(154, 86, 30); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
+
+.stackxbtn {
+        border-color: rgb(25, 83, 152);
+        border-radius: 10px;
+        width: 240px;
+        height: 45px;
+        font-size: xx-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #000;
+        background-color: rgb(253, 253, 253);
+        display: inline-block;
+        box-shadow: 0 5px rgb(253, 253, 253);
+        cursor: pointer;
+}
+.stackxbtn:hover{background-color: rgb(25, 83, 152);}
+.stackxbtn:active{background-color: rgb(25, 83, 152); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
