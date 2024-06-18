@@ -24,8 +24,6 @@ p.mainContent{
         }
 .ytbtn{
         border-color: rgb(164, 10, 10);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #ffffff;
@@ -39,8 +37,6 @@ p.mainContent{
 
 .stmbtn{
         border-color: rgb(7, 107, 187);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #c5c3c0;
@@ -54,8 +50,6 @@ p.mainContent{
 
 .sndbtn {
         border-color: rgb(254, 114, 24);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #fff;
@@ -69,8 +63,6 @@ p.mainContent{
 
 .xbtn {
         border-color: rgb(29, 155, 240);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #fff;
@@ -84,8 +76,6 @@ p.mainContent{
 
 .twitchbtn {
         border-color: rgb(169, 112, 255);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #fff;
@@ -99,8 +89,6 @@ p.mainContent{
 
 .ghbtn {
         border-color: rgb(230, 237, 243);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #fff;
@@ -114,8 +102,6 @@ p.mainContent{
 
 .redditbtn {
         border-color: rgb(255, 69, 0);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #fff;
@@ -129,8 +115,6 @@ p.mainContent{
 
 .spotbtn {
         border-color: rgb(28, 214, 97);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #fff;
@@ -144,8 +128,6 @@ p.mainContent{
 
 .gogbtn {
         border-color: rgb(110, 29, 114);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #000;
@@ -159,8 +141,6 @@ p.mainContent{
 
 .stackobtn {
         border-color: rgb(244, 128, 36);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #fff;
@@ -174,8 +154,6 @@ p.mainContent{
 
 .stackxbtn {
         border-color: rgb(25, 83, 152);
-        border-radius: 10px;
-        padding: 5px;
         font-size: xx-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: #000;
@@ -188,6 +166,10 @@ p.mainContent{
 .stackxbtn:active{background-color: rgb(25, 83, 152); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
 
 .socials {
-        margin: 5px;
+        padding: 20px;
+        width: 30px;
+        height: 30px;
         text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
 }
