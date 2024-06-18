@@ -197,3 +197,10 @@ p.mainContent{
 }
 .stackxbtn:hover{background-color: rgb(25, 83, 152);}
 .stackxbtn:active{background-color: rgb(25, 83, 152); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
+
+.socials {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+}
