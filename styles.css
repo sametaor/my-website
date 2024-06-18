@@ -191,6 +191,7 @@ p.mainContent{
 .topnav {
         background-color: #333;
         overflow: hidden;
+        width: 100%;
         position: fixed;
       }
       
