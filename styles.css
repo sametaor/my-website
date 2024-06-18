@@ -166,10 +166,6 @@ p.mainContent{
 .stackxbtn:active{background-color: rgb(25, 83, 152); box-shadow: 0 2.5px #171d25; transform: translateY(2.5px);}
 
 .socials {
-        padding: 20px;
-        width: 30px;
-        height: 30px;
+        margin: 5px;
         text-align: center;
-        text-decoration: none;
-        border-radius: 50%;
 }
