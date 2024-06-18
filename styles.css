@@ -167,5 +167,6 @@ p.mainContent{
 
 .socials {
         margin: 5px;
+        border-radius: 50%;
         text-align: center;
 }
