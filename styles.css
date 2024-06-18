@@ -178,7 +178,7 @@ p.mainContent{
 .socials {
         position: fixed;
         left: 0;
-        bottom: 0;
+        bottom: 5;
         width: 100%;
         text-align: center;
 }
