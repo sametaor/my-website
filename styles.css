@@ -181,6 +181,7 @@ p.mainContent{
 
 .socials {
         position: fixed;
+        float: left;
         left: 0;
         bottom: 10px;
         width: 100%;
@@ -192,7 +193,8 @@ p.mainContent{
         background-color: #333;
         overflow: hidden;
         position: fixed;
-        width: 100%
+        width: 100%;
+        border-radius: 12px;
       }
       
       /* Style the links inside the navigation bar */
@@ -227,6 +229,7 @@ p.mainContent{
       .dropdown .dropbtn {
         font-size: 17px;
         border: none;
+        border-radius: 12px;
         outline: none;
         color: white;
         padding: 14px 16px;
@@ -241,6 +244,7 @@ p.mainContent{
         position: absolute;
         background-color: #f9f9f9;
         min-width: 160px;
+        border-radius: 12px;
         box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
         z-index: 1;
       }
