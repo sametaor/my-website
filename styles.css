@@ -192,12 +192,9 @@ p.mainContent{
 .topnav {
         background-color: #333;
         overflow: hidden;
-        border-radius: 12px;
-        border-top-right-radius: 12px;
-        border-bottom-right-radius: 12px;
+        border-radius: 12px !important;
         position: fixed;
-        width: 99%;
-        align-self: center;
+        width: 100%;
       }
       
       /* Style the links inside the navigation bar */
