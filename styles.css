@@ -226,13 +226,13 @@ p.mainContent{
       .dropdown {
         float: left;
         overflow: hidden;
-        width: 20vw;
+        width: 100vw;
       }
       
       /* Style the dropdown button to fit inside the topnav */
       .dropdown .dropbtn {
         font-size: 17px;
-        width:100vw;
+        width:20vw;
         border: none;
         border-radius: 12px;
         outline: none;
