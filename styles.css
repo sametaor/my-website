@@ -196,7 +196,8 @@ p.mainContent{
         border-top-right-radius: 12px;
         border-bottom-right-radius: 12px;
         position: fixed;
-        width: 100%;
+        width: 99%;
+        align-self: center;
       }
       
       /* Style the links inside the navigation bar */
