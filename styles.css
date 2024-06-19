@@ -200,6 +200,7 @@ p.mainContent{
       /* Style the links inside the navigation bar */
       .topnav a {
         float: left;
+        width: 20%;
         display: block;
         color: #f2f2f2;
         text-align: center;
